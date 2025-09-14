@@ -31,10 +31,5 @@ Before you begin, ensure you have met the following requirements:
 To run **Grilli** locally, run this command on your git bash:
 
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/grilli.git
-```
 
 
